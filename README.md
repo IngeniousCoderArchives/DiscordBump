@@ -4,4 +4,5 @@ Ever Since I was fired from AYS by Will#0929, I posted Liam's code here. The lic
 
 However, he refuses to listen, and is attempting to get IngeniousApplications into Legal Matters.
 
-As such, IngeniousApplications will be posting the code here for Liam 2.0.
+As such, IngeniousApplications will be posting the code here for Liam 2.0, and reporting Copyright.
+
